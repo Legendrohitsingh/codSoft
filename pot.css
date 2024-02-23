@@ -1,0 +1,50 @@
+/* Customize these styles as needed! */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: aqua;
+}
+
+header {
+    background-color: #3f9af4fa;
+    padding: 20px;
+    text-align: left;
+    text-decoration-color: rgb(61, 148, 236);
+    image size: 50px;
+    
+}
+
+.about, .skills,.projects, .contact, .resume {
+    padding: 20px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    margin-bottom: 10px;
+}
+ .projects ul {
+list-style: none;
+padding: 0;
+}
+.projects li {
+    margin-bottom: 10px;
+}
+.contact ul {
+    list-style:none ;
+    padding: 0;
+}
+
+.contact li {
+    margin-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
